@@ -10,4 +10,4 @@ ProyectoFinalProg3
 <p></p>
 ```
 
-(https://avatars3.githubusercontent.com/u/5784164?s=400&v=4)
+<img src="https://avatars3.githubusercontent.com/u/5784164?s=400&v=4"/>
